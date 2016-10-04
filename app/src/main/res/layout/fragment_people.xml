@@ -1,0 +1,54 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.PeopleFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/linearLayout">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:id="@+id/editSearchText"
+                android:layout_weight="1"
+                android:background="@android:drawable/editbox_background_normal"
+                android:textSize="20dp"
+                android:hint="Search"
+                android:layout_marginTop="2dp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:text="GO"
+                android:id="@+id/buttonSearch"
+                android:layout_weight="6"
+                android:textSize="18dp"
+                android:background="@color/accent_material_light"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listPeople"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@+id/linearLayout"
+            android:clickable="false"
+            android:focusable="false" />
+
+    </RelativeLayout>
+</FrameLayout>

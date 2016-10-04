@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_914606616513984b65e2bb8176bdec1512ef2376\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_e2f70669ac2ec81cd0fab7114ee1634d7d71585f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\RAHUL\.gradle\caches\modules-2\files-2.1\com.backendless\backendless\3.0.11\fbdf1b3f7412ec5029822879e19e1031008cb4f9\backendless-3.0.11.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fbdf1b3f7412ec5029822879e19e1031008cb4f9">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\backendless-3.0.11_1613e873b5f983cc42b98ae54aa56907fc01dc8c\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_90ff440c434707584ba201d200b3343810d251c1\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_5701c5877c41891e4b859c867dcf6456c030234a\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="53a356d004068ee0577af3843c534c6692c71ec8">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_335669685db97ed109ab4cb02564b7ca28cc6b6c\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_eee9abea5ec8a1f0e748f2bc6d6ce167ba7de574\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_1dc694b9e1de483baebc49167c5c38b8f708ee5b\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_5c65a0af9165d44b0761a6c5976bc56513229db8\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_3df2743a6327475193e7d1072211525d7b92116a\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_fe1e348c880101416e464aa045dd2877231d5791\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_6b4d22180acefa6b7b0ca9b438b8cba98d999ff1\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_3666fc61904889c9a7ae14653354f2ec13938c64\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_0973393309dccd515b05a8d0bb756f2416ecf705\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_4f74b316431b02c4f4aa79a8bda55d1aacc73f38\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_9d58a45aaa713affeb8b36ba2e7d0a5a06bbd5c9\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_cc9a75c28fec839fe38073134e9b64e0e71e5caf\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_804b60c4fdaa81821f0fecba8af57c1bbe7d6209\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_157051a83fdc77e0f2c01d107a9c353146b9ecb4\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_fe76e6f4c939757e61343eb1b5465c9bed9c3fdc\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_c6a80e0adda69771c16e6f5922084140e1e8f93e\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3e4a258ba50e58563c976ae6316b89502e4ee53a">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1560fae854f8fc1a4828ff2461030ab7f53edc7f\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_c03fc1107c695d736aa3a8d1fb23dc12f5552a46\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_fefd7408e115705ebf178a6ead5e356d43b0b68e\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_6878ba14a2bd16cbdce86d3ec59eb17bd5e48ba2\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_67ebe97432b09239f84e23e65a108fc274861868\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_d44d6c7bb6adf402e3c7322c13db1530807cd551\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_a4d1696eede19d1ec470722b06bb8dc86bd34430\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_0e3c1f74e8a5bfc1a2d9d7a42b8f74e97d8e21ec\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_41d79e9b2b259acaa1e44b6d1454456a592943bc\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_0642e7f5c7968093754e6f972e6f121602802a7e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\RAHUL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_a97cdec5dd4f3d5faaaa7d6ba0f90a1bd24ef77b\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ce9ff60532ab624064c949f48f89a20bf5d0a347\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_3b1a12984e9d0db8ee60887a37004d072b42a6e8\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_fb2156a75f705504d4a5ed076f08e9882eb6d127\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_a8eee4c8953503d0398e96b2d57c4b09791f79ab\classes.dex" />
+    </item>
+    <item
+        jar="E:\androidAPPS\NearBY\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="E:\androidAPPS\NearBY\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_7d9b6a46461fcbacc1b0d93ffb6bfcf722171683\classes.dex" />
+    </item>
+
+</items>

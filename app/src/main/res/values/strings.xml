@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NearBY</string>
+    <string name="register_top_text">REGISTER</string>
+    <string name="profile_name">First Name</string>
+    <string name="profile_mobile">Mobile Number</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ristration_signup">Sign Up</string>
+    <string name="register_radio1">Individual</string>
+    <string name="register_radio2">Service Provider</string>
+    <string name="arrow_image">register_next_Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registerDetails">Details</string>
+    <string name="registerPassword">Password</string>
+    <string name="loginMobile">Mobile</string>
+    <string name="loginPass">Password</string>
+    <string name="loginTextView">Sign In</string>
+    <string name="name">Name</string>
+</resources>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    tools:context="work.rahulyadav.rahul.nearby.SignUpActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ristration_signup"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/accent_material_light"
+        android:textColor="#ffffff"
+        android:textSize="35sp"
+        android:paddingTop="100dp"
+        android:paddingBottom="25dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editTextLoginMobile"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@android:drawable/editbox_background_normal"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:textSize="20sp"
+        android:hint="Name"
+        android:layout_marginTop="10dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/editTextRegisterMobile"
+        android:layout_below="@+id/editTextLoginMobile"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:textIsSelectable="false"
+        android:textSize="20sp"
+        android:hint="@string/profile_mobile"
+        android:layout_marginTop="10dp" />
+
+    <ImageButton
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/imageButtonRegister"
+        android:src="@drawable/arrow_right_submit"
+        android:background="#00ffffff"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/arrow_image"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/editTextLogInPassword"
+        android:layout_marginBottom="15dp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_above="@+id/editTextLoginMobile"
+        android:layout_alignParentStart="true"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:id="@+id/radioGroup">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/register_radio1"
+            android:id="@+id/radioButtonIndividual"
+            android:checked="true"
+            android:onClick="onRegisterRadioClicked"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/register_radio2"
+            android:id="@+id/radioButtonService"
+            android:checked="false"
+            android:onClick="onRegisterRadioClicked" />
+    </RadioGroup>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:id="@+id/editTextDetails"
+        android:layout_below="@+id/editTextRegisterMobile"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="25dp"
+        android:background="@android:drawable/editbox_background_normal"
+        android:textIsSelectable="false"
+        android:textSize="20sp"
+        android:layout_alignStart="@+id/editTextRegisterMobile"
+        android:hint="@string/registerDetails"
+        android:layout_marginTop="10dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:id="@+id/editTextLogInPassword"
+        android:background="@android:drawable/editbox_background_normal"
+        android:textIsSelectable="false"
+        android:textSize="20sp"
+        android:hint="@string/registerPassword"
+        android:layout_below="@+id/editTextDetails"
+        android:layout_alignStart="@+id/editTextDetails"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="25dp"
+        android:inputType="textPersonName" />
+</RelativeLayout>
